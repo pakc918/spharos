@@ -3,6 +3,3 @@
 
 ## test1
 README 수정
-
-## test2
-가나다라
